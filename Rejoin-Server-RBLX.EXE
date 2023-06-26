@@ -3,7 +3,3 @@ print("Rejoining...")
 wait(2.5)
 
 game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
-
-wait(0.5)
-
-print("Rejoined!")
